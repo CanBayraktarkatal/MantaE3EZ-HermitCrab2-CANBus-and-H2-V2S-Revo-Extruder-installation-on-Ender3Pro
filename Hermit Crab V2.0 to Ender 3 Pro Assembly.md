@@ -11,7 +11,7 @@ Assemble the clamp to the fixed plate of the Hermit Crab V2.0 using two M3x5 fla
 Hermit Crab V2.0 has four POM wheels to assemble on Ender 3 Pro.
 
 ⚠️Be Careful! The M5 button-head cap screws used to assemble POM wheels are different sizes.\
-Two of them are M5x28, and two of them are M5x25.\
+Two are M5x28, and two are M5x25.\
 ![](Images/Hermit_Crab_V2.0_to_Ender_3_Pro_Assembly/M5_Screws.png)
 
 If you assemble them incorrectly, you may damage the Hermit Crab V2.0's fixed plate.\
@@ -30,4 +30,4 @@ Assemble the M5x28 button-head cap screws and the eccentric spacers at the botto
 ![](Images/Hermit_Crab_V2.0_to_Ender_3_Pro_Assembly/Wheels_Assembly.png)
 ![](Images/Hermit_Crab_V2.0_to_Ender_3_Pro_Assembly/Cap_Screws_Assembly.png)
 
-Now, you can tighten the screws of the POM wheels so that the fixed plate can move along the x-axis without any problem.
+Now, you can tighten the screws of the POM wheels so that the fixed plate can move along the x-axis without any problems.
